@@ -1458,7 +1458,8 @@ h5 a,
 h6 a {
     color: inherit;
     -webkit-transition: .5s;
-    transition: .5s
+    transition: .5s;
+    font-size: 21px;
 }
 
 .about-style-2 .about-image-gallery .award-status .inner .content .subtitle,
