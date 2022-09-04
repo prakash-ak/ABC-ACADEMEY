@@ -15164,7 +15164,8 @@ only screen and (min-width:992px) and (max-width:1199px) {
     .edu-header.header-fullwidth .header-mainmenu,
     .edu-header.header-fullwidth .header-top-bar {
         padding-left: 22px;
-        padding-right: 22px
+        padding-right: 22px;
+        padding-bottom: 36px;
     }
     .header-style-1 .header-action li.search-icon,
     .header-style-4 .header-action li.search-icon {
